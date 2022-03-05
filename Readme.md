@@ -1,4 +1,4 @@
-# 10x Academy NodeJs Assignments
+# NodeJs Tutorials
 
 ## Curated list of NodeJs Assignments
 
